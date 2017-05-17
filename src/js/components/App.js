@@ -1,8 +1,8 @@
 
     import React from "react";
     import {render} from "react-dom";
-    import SearchBar  from "../components/SearchBar";
-    import WeatherList from "../components/WeatherList"
+    import SearchBar  from "../containers/SearchBar";
+    import WeatherList from "../containers/WeatherList"
 
      class App extends React.Component {
 
